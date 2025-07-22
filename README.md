@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Meliane iMANE</h1>
+<h1 align="center">Imane Meliane</h1>
 
 ###
 
@@ -81,18 +81,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=imane42377&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3R0a2V3aDlmbHl3aXVsZGQxaGNnOHZvdHR1YnptdHlyd3A0bWQxYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduSi2isGBb4WFRS/giphy.webp"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imane42377&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imane42377&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -107,16 +95,8 @@
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imane42377/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@imane42377/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imane42377/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@imane42377/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imane42377/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@imane42377/2" alt="Medium post 3"  />
-  </a>
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3R0a2V3aDlmbHl3aXVsZGQxaGNnOHZvdHR1YnptdHlyd3A0bWQxYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduSi2isGBb4WFRS/giphy.webp"  />
 </div>
 
 ###
