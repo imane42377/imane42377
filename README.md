@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Imane Meliane</h1>
+<h1 align="center">Meliane iMANE</h1>
 
 ###
 
